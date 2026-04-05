@@ -139,11 +139,11 @@ anubhav = {
 
 <div align="center">
 
-![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavsh18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+[Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavsh18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsh18&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsh18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhavsh18&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=anubhavsh18&theme=tokyonight&hide_border=true)
 
 </div>
 
