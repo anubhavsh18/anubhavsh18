@@ -1,5 +1,3 @@
-## Hi there, I'm Anubhav 👋
-
 # 👋 Hey, I'm Anubhav Sharma!
 
 ### Data Analyst & BI Developer · 3+ Years of Experience · Noida, India
