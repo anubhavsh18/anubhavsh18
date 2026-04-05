@@ -143,7 +143,10 @@ anubhav = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavsh18&theme=tokyo-night&hide_border=true)](https://github.com/anubhavsh18)
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql&theme=dark)](https://github.com/anubhavsh18)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=anubhavsh18&theme=tokyonight&hide_border=true)](https://github.com/anubhavsh18)
 
