@@ -135,13 +135,15 @@ anubhav = {
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📈 GitHub Activity
 
 <div align="center">
 
-[![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubhavsh18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/anubhavsh18)
+[![Anubhav's GitHub Stats]## 📈 GitHub Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavsh18&theme=tokyo-night&hide_border=true)](https://github.com/anubhavsh18)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsh18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/anubhavsh18)
 
